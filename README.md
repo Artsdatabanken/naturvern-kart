@@ -11,7 +11,7 @@ Kartdata for Norske naturvernområder. Produsert av repo [naturvern-kart-lastejo
 
 ## Utdatasett
 
-Lastejobben som lager dette datasettet liggger i repo [naturvern-kart-lastejobb](https://github.com/Artsdatabanken/naturvern-lastejobb).
+Lastejobben som lager dette datasettet liggger i repo [naturvern-kart-lastejobb](https://github.com/Artsdatabanken/naturvern-kart-lastejobb).
 
 ### Baserer seg på åpne data fra (takk til)
 
