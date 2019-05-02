@@ -3,22 +3,21 @@
 graph LR;
   linkStyle default interpolate monotoneX
     subgraph Inndata
+      kommune[kommune]
       kommune-kart[kommune-kart]
-      wikidata[Wikidata - metadata]
-      mdir[Miljødirektoratet - kart og metadata]
+      wikidata[Wikidata]
+      mdir[Miljødirektoratet]
     end
-    subgraph Lastejobb
       naturvern-kart-lastejobb(naturvern-kart-lastejobb)
       naturvern-lastejobb(naturvern-lastejobb)
-    end
-    subgraph Utdatasett
-      naturvern-kart[naturvern-kart]
-      naturvern[naturvern]
-    end
+    naturvern-kart[naturvern-kart]
+    naturvern[naturvern]
     wikidata-->|SPARQL|naturvern-lastejobb;
-    mdir-->|JSON|naturvern-lastejobb;
-    mdir-->|GeoJSON|naturvern-kart-lastejobb;
-    naturvern-kart-lastejobb-->|GeoJSON|naturvern-kart;
+    kommune-->|SPARQL|naturvern-lastejobb;
+    mdir-->|GeoJSON egenskaper|naturvern-lastejobb;
+    mdir-->|GeoJSON geometri|naturvern-kart-lastejobb;
+    naturvern-kart-lastejobb-->|GeoJSON, JSON|naturvern-kart;
+    naturvern-kart-->|JSON|naturvern-lastejobb;
     naturvern-lastejobb-->|JSON|naturvern;
     kommune-kart-->|GeoJSON|naturvern-kart-lastejobb(naturvern-kart-lastejobb);
     naturvern-->nin-data-lastejobb(nin-data-lastejobb);
