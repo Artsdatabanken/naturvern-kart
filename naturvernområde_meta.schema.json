@@ -22,6 +22,9 @@
               "type": "string"
             }
           },
+          "id": {
+            "type": "string"
+          },
           "kode": {
             "type": "string"
           },
@@ -36,6 +39,7 @@
           "areal",
           "bbox",
           "fylker",
+          "id",
           "kode",
           "kommuner"
         ]
@@ -78,7 +82,7 @@
   },
   "meta": {
     "tittel": "Naturvernområde meta.schema",
-    "produsertUtc": "2019-09-27T22:39:54.023Z",
+    "produsertUtc": "2019-09-28T12:20:47.991Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/naturvernområde_meta.schema.json",
     "tool": {
