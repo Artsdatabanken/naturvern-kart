@@ -38,6 +38,9 @@
               "id": {
                 "type": "string"
               },
+              "kode": {
+                "type": "string"
+              },
               "code": {
                 "type": "string"
               }
@@ -98,14 +101,11 @@
     },
     "items": {
       "type": "null"
-    },
-    "$schema": {
-      "type": "string"
     }
   },
   "meta": {
     "tittel": "Naturvernområde 25833.geojson.schema",
-    "produsertUtc": "2019-09-27T22:31:42.205Z",
+    "produsertUtc": "2019-10-06T12:06:03.930Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/naturvernområde_25833.geojson.schema.json",
     "tool": {

@@ -8,6 +8,22 @@
     "name": {
       "type": "string"
     },
+    "crs": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string"
+        },
+        "properties": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
     "features": {
       "type": "array",
       "items": {
@@ -20,6 +36,9 @@
             "type": "object",
             "properties": {
               "id": {
+                "type": "string"
+              },
+              "kode": {
                 "type": "string"
               },
               "code": {
@@ -82,14 +101,11 @@
     },
     "items": {
       "type": "null"
-    },
-    "$schema": {
-      "type": "string"
     }
   },
   "meta": {
     "tittel": "Naturvernområde 4326.geojson.schema",
-    "produsertUtc": "2019-09-27T22:31:41.847Z",
+    "produsertUtc": "2019-10-06T12:06:03.514Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/naturvernområde_4326.geojson.schema.json",
     "tool": {
