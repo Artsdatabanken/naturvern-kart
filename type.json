@@ -42144,7 +42144,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-10-06T12:45:54.112Z",
+    "produsertUtc": "2019-10-07T15:41:24.403Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/type.json",
     "tool": {
@@ -42152,5 +42152,6 @@
       "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb"
     },
     "elementer": 2449
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/type.schema.json#"
 }
