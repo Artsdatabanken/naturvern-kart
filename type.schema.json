@@ -75,11 +75,14 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-06T12:45:54.164Z",
+    "produsertUtc": "2019-11-25T13:50:53.276Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/type.schema.json",
     "tool": {
