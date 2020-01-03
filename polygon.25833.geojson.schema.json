@@ -40,9 +40,6 @@
               },
               "kode": {
                 "type": "string"
-              },
-              "code": {
-                "type": "string"
               }
             }
           },
@@ -105,7 +102,7 @@
   },
   "meta": {
     "tittel": "Polygon.25833.geojson.schema",
-    "produsertUtc": "2020-01-02T15:47:17.693Z",
+    "produsertUtc": "2020-01-03T08:08:51.969Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/polygon.25833.geojson.schema.json",
     "tool": {
