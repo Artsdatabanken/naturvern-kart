@@ -1,114 +1,204 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "type": {
-      "type": "string"
-    },
-    "name": {
-      "type": "string"
-    },
-    "crs": {
-      "type": "object",
-      "properties": {
-        "type": {
-          "type": "string"
-        },
+  "items": {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+      "crs": {
         "properties": {
-          "type": "object",
           "properties": {
-            "name": {
-              "type": "string"
-            }
-          }
-        }
-      }
-    },
-    "features": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
+            "properties": {
+              "name": {
+                "type": "string"
+              }
+            },
+            "type": "object"
+          },
           "type": {
             "type": "string"
-          },
+          }
+        },
+        "type": "object"
+      },
+      "features": {
+        "items": {
           "properties": {
-            "type": "object",
-            "properties": {
-              "id": {
-                "type": "string"
-              },
-              "kode": {
-                "type": "string"
-              }
-            }
-          },
-          "geometry": {
-            "type": "object",
-            "properties": {
-              "type": {
-                "type": "string"
-              },
-              "coordinates": {
-                "type": "array",
-                "items": {
+            "geometry": {
+              "properties": {
+                "coordinates": {
+                  "items": {
+                    "type": "array"
+                  },
                   "type": "array"
+                },
+                "type": {
+                  "type": "string"
                 }
-              }
-            }
-          }
-        },
-        "required": [
-          "type",
-          "properties",
-          "geometry"
-        ]
-      }
-    },
-    "meta": {
-      "type": "object",
-      "properties": {
-        "tittel": {
-          "type": "string"
-        },
-        "produsertUtc": {
-          "type": "string"
-        },
-        "utgiver": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "tool": {
-          "type": "object",
-          "properties": {
-            "name": {
-              "type": "string"
+              },
+              "type": "object"
             },
-            "url": {
+            "properties": {
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "kode": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "type": {
               "type": "string"
             }
+          },
+          "required": [
+            "type",
+            "properties",
+            "geometry"
+          ],
+          "type": "object"
+        },
+        "type": "array"
+      },
+      "items": {
+        "type": "null"
+      },
+      "meta": {
+        "properties": {
+          "elementer": {
+            "type": "number"
+          },
+          "produsertUtc": {
+            "type": "string"
+          },
+          "source": {
+            "items": {
+              "properties": {
+                "elementer": {
+                  "type": "number"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "produsertUtc": {
+                  "type": "string"
+                },
+                "source": {
+                  "items": {},
+                  "type": "array"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "tool": {
+                  "properties": {
+                    "commit": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "url": {
+                  "type": "null"
+                },
+                "utgiver": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "tittel",
+                "produsertUtc",
+                "utgiver",
+                "url",
+                "tool",
+                "elementer",
+                "source"
+              ],
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "tittel": {
+            "type": "string"
+          },
+          "tool": {
+            "properties": {
+              "commit": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              }
+            },
+            "type": "object"
+          },
+          "url": {
+            "type": "null"
+          },
+          "utgiver": {
+            "type": "string"
           }
         },
-        "elementer": {
-          "type": "number"
-        }
+        "type": "object"
+      },
+      "name": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string"
       }
     },
-    "items": {
-      "type": "null"
-    }
+    "type": "object"
   },
   "meta": {
     "tittel": "Polygon.25833.geojson.schema",
-    "produsertUtc": "2020-01-03T08:08:51.969Z",
+    "produsertUtc": "2020-04-29T12:39:41.207Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/polygon.25833.geojson.schema.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/tree/polygon.25833.geojson.schema.json",
     "tool": {
       "name": "naturvern-kart-lastejobb",
-      "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb"
+      "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
+      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/8a6778fee349f3569dd6a927f9386ca48bd33f19"
     },
-    "elementer": 3
+    "elementer": 3,
+    "source": [
+      {
+        "name": "naturvernområde_4326_simple.geojson",
+        "tittel": "Naturvernområde 4326",
+        "produsertUtc": "2020-04-29T12:38:19.058Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "naturvern-kart-lastejobb",
+          "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/8a6778fee349f3569dd6a927f9386ca48bd33f19"
+        },
+        "elementer": 3182,
+        "source": []
+      },
+      {
+        "name": "naturvernområde_25833_simple.geojson",
+        "tittel": "Naturvernområde 4326",
+        "produsertUtc": "2020-04-29T12:38:19.058Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "naturvern-kart-lastejobb",
+          "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/8a6778fee349f3569dd6a927f9386ca48bd33f19"
+        },
+        "elementer": 3182,
+        "source": []
+      }
+    ]
   }
 }
