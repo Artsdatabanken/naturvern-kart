@@ -135,26 +135,26 @@
   },
   "meta": {
     "tittel": "Polygon.4326.geojson.schema",
-    "produsertUtc": "2020-04-29T12:39:40.890Z",
+    "produsertUtc": "2020-08-29T17:06:58.234Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/tree/polygon.4326.geojson.schema.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/polygon.4326.geojson.schema.json",
     "tool": {
       "name": "naturvern-kart-lastejobb",
       "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/8a6778fee349f3569dd6a927f9386ca48bd33f19"
+      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/32ff52cc54e7ea0ba81ab2513f22c2311974c8b5"
     },
     "elementer": 3,
     "source": [
       {
         "name": "naturvernområde_4326_simple.geojson",
         "tittel": "Naturvernområde 4326",
-        "produsertUtc": "2020-04-29T12:38:19.058Z",
+        "produsertUtc": "2020-08-29T17:05:38.505Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/8a6778fee349f3569dd6a927f9386ca48bd33f19"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/32ff52cc54e7ea0ba81ab2513f22c2311974c8b5"
         },
         "elementer": 3182,
         "source": []
