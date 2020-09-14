@@ -490,7 +490,7 @@
       ]
     },
     {
-      "areal": 24486930,
+      "areal": 24700272,
       "bbox": [
         8.929002747031067,
         59.94585009369788,
@@ -4585,10 +4585,10 @@
       ]
     },
     {
-      "areal": 13732890,
+      "areal": 16864004,
       "bbox": [
         11.531693613794845,
-        59.19152785345077,
+        59.18844335540431,
         11.612997691552405,
         59.249680124539246
       ],
@@ -6817,7 +6817,6 @@
       "id": "VV00001365",
       "kode": "VV-1365",
       "kommuner": [
-        "3407",
         "3448"
       ]
     },
@@ -7056,7 +7055,6 @@
       "id": "VV00001378",
       "kode": "VV-1378",
       "kommuner": [
-        "3438",
         "3439"
       ]
     },
@@ -11829,11 +11827,11 @@
       ]
     },
     {
-      "areal": 4789095,
+      "areal": 6827788,
       "bbox": [
         7.591710061983263,
-        58.63510066733657,
-        7.644453867956492,
+        58.598934741160015,
+        7.665875939559595,
         58.68125725027511
       ],
       "fylker": [
@@ -15441,7 +15439,7 @@
       ]
     },
     {
-      "areal": 155183753,
+      "areal": 156326957,
       "bbox": [
         9.156978305650712,
         59.98433926632926,
@@ -17421,12 +17419,12 @@
       ]
     },
     {
-      "areal": 1688534,
+      "areal": 4719438,
       "bbox": [
-        9.978694563133068,
-        59.23438371362751,
-        10.011420425244236,
-        59.25422757445667
+        9.95446990671295,
+        59.233896331172915,
+        10.011542055914266,
+        59.26852466599075
       ],
       "fylker": [
         "38"
@@ -24587,10 +24585,10 @@
     {
       "areal": 2593782,
       "bbox": [
-        7.886655221920392,
-        58.11147746292501,
-        7.927845050487798,
-        58.134217778927514
+        7.886655239766275,
+        58.111477373795616,
+        7.92784506823548,
+        58.13421768979883
       ],
       "fylker": [
         "42"
@@ -27219,12 +27217,12 @@
       "kommuner": []
     },
     {
-      "areal": 580263,
+      "areal": 1293419,
       "bbox": [
-        12.059976143106924,
-        78.99669784937618,
-        12.095068410439245,
-        79.00575515283438
+        12.059749460246705,
+        78.99681365317731,
+        12.130509429455156,
+        79.00779240716709
       ],
       "fylker": [],
       "id": "VV00002556",
@@ -27474,7 +27472,7 @@
       "kommuner": []
     },
     {
-      "areal": 9893269188,
+      "areal": 9922015235,
       "bbox": [
         9.44322585692338,
         79.00429592738298,
@@ -27873,8 +27871,7 @@
       "id": "VV00002640",
       "kode": "VV-2640",
       "kommuner": [
-        "3423",
-        "3439"
+        "3423"
       ]
     },
     {
@@ -28046,7 +28043,6 @@
       "id": "VV00002650",
       "kode": "VV-2650",
       "kommuner": [
-        "5026",
         "5032"
       ]
     },
@@ -30834,14 +30830,12 @@
         61.99259789101682
       ],
       "fylker": [
-        "34",
-        "46"
+        "34"
       ],
       "id": "VV00002829",
       "kode": "VV-2829",
       "kommuner": [
-        "3433",
-        "4651"
+        "3433"
       ]
     },
     {
@@ -31342,12 +31336,12 @@
       ]
     },
     {
-      "areal": 1100645,
+      "areal": 3711210,
       "bbox": [
-        10.034759684487728,
-        59.26774433364334,
-        10.061666508031111,
-        59.284480670447195
+        10.034902429196862,
+        59.250731496005564,
+        10.079219561515139,
+        59.28449878140714
       ],
       "fylker": [
         "38"
@@ -37112,7 +37106,8 @@
       "id": "VV00003203",
       "kode": "VV-3203",
       "kommuner": [
-        "3423"
+        "3423",
+        "3440"
       ]
     },
     {
@@ -39645,12 +39640,12 @@
       ]
     },
     {
-      "areal": 1004910,
+      "areal": 1437072,
       "bbox": [
-        10.147888205202971,
+        10.147884444544426,
         60.89300581742566,
-        10.207216002397058,
-        60.90278936244073
+        10.2131148945213,
+        60.903526406470014
       ],
       "fylker": [
         "34"
@@ -41068,6 +41063,7 @@
       "id": "VV00003458",
       "kode": "VV-3458",
       "kommuner": [
+        "1146",
         "1160"
       ]
     },
@@ -42022,12 +42018,12 @@
       ]
     },
     {
-      "areal": 108525,
+      "areal": 563564,
       "bbox": [
         11.102532754208159,
         59.37427100739717,
-        11.108678299646453,
-        59.37851825452711
+        11.121628013539436,
+        59.387107487594854
       ],
       "fylker": [
         "30"
@@ -42913,8 +42909,7 @@
       "id": "VV00003570",
       "kode": "VV-3570",
       "kommuner": [
-        "5007",
-        "5049"
+        "5007"
       ]
     },
     {
@@ -43261,6 +43256,89 @@
       ]
     },
     {
+      "areal": 28746047,
+      "bbox": [
+        12.61039752256149,
+        79.5591297068198,
+        13.693632043674436,
+        79.69533908139181
+      ],
+      "fylker": [],
+      "id": "VV00003605",
+      "kode": "VV-3605",
+      "kommuner": []
+    },
+    {
+      "areal": 1638418,
+      "bbox": [
+        10.345915749008014,
+        63.69774063349759,
+        10.385745892099347,
+        63.71271183738851
+      ],
+      "fylker": [
+        "50"
+      ],
+      "id": "VV00003606",
+      "kode": "VV-3606",
+      "kommuner": [
+        "5054"
+      ]
+    },
+    {
+      "areal": 2145339,
+      "bbox": [
+        10.817190636845996,
+        63.723451194691535,
+        10.842275828583157,
+        63.74813679772586
+      ],
+      "fylker": [
+        "50"
+      ],
+      "id": "VV00003607",
+      "kode": "VV-3607",
+      "kommuner": [
+        "5053",
+        "5054"
+      ]
+    },
+    {
+      "areal": 1934572,
+      "bbox": [
+        8.262822851435692,
+        59.15650743686268,
+        8.308727404094073,
+        59.17229496658802
+      ],
+      "fylker": [
+        "38"
+      ],
+      "id": "VV00003608",
+      "kode": "VV-3608",
+      "kommuner": [
+        "3822",
+        "3823"
+      ]
+    },
+    {
+      "areal": 1022438,
+      "bbox": [
+        9.915409384406681,
+        59.19519317560414,
+        9.944730841568921,
+        59.2075444931527
+      ],
+      "fylker": [
+        "38"
+      ],
+      "id": "VV00003609",
+      "kode": "VV-3609",
+      "kommuner": [
+        "3805"
+      ]
+    },
+    {
       "areal": 265403,
       "bbox": [
         10.639126436392834,
@@ -43278,6 +43356,180 @@
       ]
     },
     {
+      "areal": 16070087,
+      "bbox": [
+        9.31315747094417,
+        59.65160394675218,
+        9.405560305546683,
+        59.7094807899932
+      ],
+      "fylker": [
+        "30",
+        "38"
+      ],
+      "id": "VV00003610",
+      "kode": "VV-3610",
+      "kommuner": [
+        "3006",
+        "3808"
+      ]
+    },
+    {
+      "areal": 267888,
+      "bbox": [
+        9.643993065607296,
+        59.22852362634361,
+        9.658450705905363,
+        59.23499486010264
+      ],
+      "fylker": [
+        "38"
+      ],
+      "id": "VV00003611",
+      "kode": "VV-3611",
+      "kommuner": [
+        "3807"
+      ]
+    },
+    {
+      "areal": 745140,
+      "bbox": [
+        8.78149451926916,
+        59.9157944595295,
+        8.808565818229866,
+        59.922633970617206
+      ],
+      "fylker": [
+        "38"
+      ],
+      "id": "VV00003612",
+      "kode": "VV-3612",
+      "kommuner": [
+        "3818"
+      ]
+    },
+    {
+      "areal": 945314,
+      "bbox": [
+        11.550100588987307,
+        59.47325657990818,
+        11.581685432656784,
+        59.49253330970023
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003613",
+      "kode": "VV-3613",
+      "kommuner": [
+        "3013",
+        "3014"
+      ]
+    },
+    {
+      "areal": 128690,
+      "bbox": [
+        11.200591168613064,
+        59.41141602337836,
+        11.208846122070302,
+        59.417856974798894
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003614",
+      "kode": "VV-3614",
+      "kommuner": [
+        "3016"
+      ]
+    },
+    {
+      "areal": 2391887,
+      "bbox": [
+        11.498918524723138,
+        59.49933348799545,
+        11.530712238384957,
+        59.519503792056604
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003615",
+      "kode": "VV-3615",
+      "kommuner": [
+        "3013",
+        "3014"
+      ]
+    },
+    {
+      "areal": 64710,
+      "bbox": [
+        11.291943432340872,
+        59.55752152911216,
+        11.297330945532172,
+        59.56086122063372
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003616",
+      "kode": "VV-3616",
+      "kommuner": [
+        "3014"
+      ]
+    },
+    {
+      "areal": 87427,
+      "bbox": [
+        11.516020605584758,
+        59.159303524262775,
+        11.522745414840816,
+        59.165132767825156
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003617",
+      "kode": "VV-3617",
+      "kommuner": [
+        "3001"
+      ]
+    },
+    {
+      "areal": 865207,
+      "bbox": [
+        11.765347453370484,
+        59.217542577146574,
+        11.796586824166972,
+        59.22925303324144
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003618",
+      "kode": "VV-3618",
+      "kommuner": [
+        "3012"
+      ]
+    },
+    {
+      "areal": 79362,
+      "bbox": [
+        11.253226708741844,
+        59.7544950280966,
+        11.260076449625933,
+        59.7583540360417
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003619",
+      "kode": "VV-3619",
+      "kommuner": [
+        "3014"
+      ]
+    },
+    {
       "areal": 192006,
       "bbox": [
         9.354849545295684,
@@ -43292,6 +43544,127 @@
       "kode": "VV-362",
       "kommuner": [
         "3814"
+      ]
+    },
+    {
+      "areal": 597967,
+      "bbox": [
+        9.498590517510685,
+        60.37127500438578,
+        9.529388485791989,
+        60.38727941622534
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003620",
+      "kode": "VV-3620",
+      "kommuner": [
+        "3039"
+      ]
+    },
+    {
+      "areal": 3791849,
+      "bbox": [
+        9.588661901786962,
+        60.30484238182723,
+        9.62396915579846,
+        60.345035327610766
+      ],
+      "fylker": [
+        "30"
+      ],
+      "id": "VV00003621",
+      "kode": "VV-3621",
+      "kommuner": [
+        "3039",
+        "3046"
+      ]
+    },
+    {
+      "areal": 653462,
+      "bbox": [
+        5.595823080850305,
+        61.63202494218355,
+        5.6218347466898075,
+        61.638724729705004
+      ],
+      "fylker": [
+        "46"
+      ],
+      "id": "VV00003622",
+      "kode": "VV-3622",
+      "kommuner": [
+        "4602"
+      ]
+    },
+    {
+      "areal": 1365539,
+      "bbox": [
+        4.993433871034043,
+        60.97913489863509,
+        5.031647987031569,
+        60.99208688326799
+      ],
+      "fylker": [
+        "46"
+      ],
+      "id": "VV00003623",
+      "kode": "VV-3623",
+      "kommuner": [
+        "4635"
+      ]
+    },
+    {
+      "areal": 13702570,
+      "bbox": [
+        10.584853907290265,
+        63.54434025281586,
+        10.677939256327162,
+        63.59036967258879
+      ],
+      "fylker": [
+        "50"
+      ],
+      "id": "VV00003624",
+      "kode": "VV-3624",
+      "kommuner": [
+        "5036"
+      ]
+    },
+    {
+      "areal": 143888,
+      "bbox": [
+        7.030921515484947,
+        62.30828558540784,
+        7.050327848822025,
+        62.3181990503719
+      ],
+      "fylker": [
+        "15"
+      ],
+      "id": "VV00003625",
+      "kode": "VV-3625",
+      "kommuner": [
+        "1525"
+      ]
+    },
+    {
+      "areal": 2390290,
+      "bbox": [
+        8.637414685519236,
+        58.689979999230495,
+        8.678746113091133,
+        58.7069899628281
+      ],
+      "fylker": [
+        "42"
+      ],
+      "id": "VV00003626",
+      "kode": "VV-3626",
+      "kommuner": [
+        "4212",
+        "4217"
       ]
     },
     {
@@ -44455,7 +44828,7 @@
       ]
     },
     {
-      "areal": 2604030,
+      "areal": 2977816,
       "bbox": [
         10.505423023190902,
         59.5938040245503,
@@ -46579,12 +46952,12 @@
       ]
     },
     {
-      "areal": 13894926,
+      "areal": 193014,
       "bbox": [
         10.584134114888588,
-        63.54434025281586,
-        10.677939256327162,
-        63.59036967258879
+        63.56458525023158,
+        10.596097247647672,
+        63.57201933357808
       ],
       "fylker": [
         "50"
@@ -48136,7 +48509,8 @@
       "id": "VV00000628",
       "kode": "VV-628",
       "kommuner": [
-        "3405"
+        "3405",
+        "3440"
       ]
     },
     {
@@ -48483,12 +48857,12 @@
       ]
     },
     {
-      "areal": 181087,
+      "areal": 472832,
       "bbox": [
-        10.327563177185995,
+        10.326816736029285,
         60.14460950256699,
-        10.33873792965281,
-        60.149440596384295
+        10.34185373201092,
+        60.15717562461413
       ],
       "fylker": [
         "30"
@@ -49295,11 +49669,11 @@
       ]
     },
     {
-      "areal": 2714385,
+      "areal": 2713727,
       "bbox": [
         10.57404585359124,
         63.55790561132387,
-        10.63051855217853,
+        10.63043619317627,
         63.5874440141693
       ],
       "fylker": [
@@ -49610,7 +49984,7 @@
       ]
     },
     {
-      "areal": 374118,
+      "areal": 374117,
       "bbox": [
         10.325935391308354,
         60.14401369144539,
@@ -54644,52 +55018,52 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2020-08-29T17:06:29.488Z",
+    "produsertUtc": "2020-09-14T06:40:32.059Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/type.json",
     "tool": {
       "name": "naturvern-kart-lastejobb",
       "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/32ff52cc54e7ea0ba81ab2513f22c2311974c8b5"
+      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
     },
-    "elementer": 3182,
+    "elementer": 3204,
     "source": [
       {
         "name": "meta.json",
         "tittel": "Meta",
-        "produsertUtc": "2020-08-29T17:06:28.534Z",
+        "produsertUtc": "2020-09-14T06:40:30.845Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/32ff52cc54e7ea0ba81ab2513f22c2311974c8b5"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
         },
-        "elementer": 3182,
+        "elementer": 3204,
         "source": [
           {
             "name": "kommune.geojson",
             "tittel": "Kommune",
-            "produsertUtc": "2020-04-29T12:04:15.087Z",
+            "produsertUtc": "2020-08-29T16:57:49.125Z",
             "utgiver": "Artsdatabanken",
             "url": null,
             "tool": {
               "name": "kommune-kart-lastejobb",
               "url": "https://github.com/Artsdatabanken/kommune-kart-lastejobb",
-              "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/ac827d3a459064f3072c1b76bf9edcb855712ecb"
+              "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/3f62ada879c775625785edf55b8e023a190c9f2f"
             },
             "elementer": 363,
             "source": [
               {
                 "name": "fylke_25833.geojson",
                 "tittel": "Fylke",
-                "produsertUtc": "2020-04-29T12:04:13.199Z",
+                "produsertUtc": "2020-08-29T16:57:47.387Z",
                 "utgiver": "Artsdatabanken",
                 "url": null,
                 "tool": {
                   "name": "kommune-kart-lastejobb",
                   "url": "https://github.com/Artsdatabanken/kommune-kart-lastejobb",
-                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/ac827d3a459064f3072c1b76bf9edcb855712ecb"
+                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/3f62ada879c775625785edf55b8e023a190c9f2f"
                 },
                 "elementer": 11,
                 "source": [
@@ -54701,13 +55075,13 @@
               {
                 "name": "kommune_25833.geojson",
                 "tittel": "Kommune",
-                "produsertUtc": "2020-04-29T12:04:15.087Z",
+                "produsertUtc": "2020-08-29T16:57:49.125Z",
                 "utgiver": "Artsdatabanken",
                 "url": null,
                 "tool": {
                   "name": "kommune-kart-lastejobb",
                   "url": "https://github.com/Artsdatabanken/kommune-kart-lastejobb",
-                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/ac827d3a459064f3072c1b76bf9edcb855712ecb"
+                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/3f62ada879c775625785edf55b8e023a190c9f2f"
                 },
                 "elementer": 363,
                 "source": [
@@ -54724,15 +55098,15 @@
           {
             "name": "naturvernområde_25833.geojson",
             "tittel": "Naturvernområde 4326",
-            "produsertUtc": "2020-08-29T17:05:38.505Z",
+            "produsertUtc": "2020-09-14T06:39:49.413Z",
             "utgiver": "Artsdatabanken",
             "url": null,
             "tool": {
               "name": "naturvern-kart-lastejobb",
               "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-              "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/32ff52cc54e7ea0ba81ab2513f22c2311974c8b5"
+              "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
             },
-            "elementer": 3182,
+            "elementer": 3204,
             "source": []
           }
         ]
@@ -54740,15 +55114,15 @@
       {
         "name": "naturvernområde_4326.geojson",
         "tittel": "Naturvernområde 4326",
-        "produsertUtc": "2020-08-29T17:05:38.505Z",
+        "produsertUtc": "2020-09-14T06:39:49.413Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/32ff52cc54e7ea0ba81ab2513f22c2311974c8b5"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
         },
-        "elementer": 3182,
+        "elementer": 3204,
         "source": []
       }
     ]
