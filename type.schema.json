@@ -2,9 +2,6 @@
   "items": {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "properties": {
-      "$schema": {
-        "type": "string"
-      },
       "items": {
         "items": {
           "properties": {
@@ -238,7 +235,7 @@
             "type": "object"
           },
           "url": {
-            "type": "string"
+            "type": "null"
           },
           "utgiver": {
             "type": "string"
@@ -251,78 +248,78 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2020-09-14T06:40:32.131Z",
+    "produsertUtc": "2022-04-04T13:39:03.375Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/type.schema.json",
+    "url": null,
     "tool": {
       "name": "naturvern-kart-lastejobb",
       "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
     },
     "elementer": 3,
     "source": [
       {
         "name": "meta.json",
         "tittel": "Meta",
-        "produsertUtc": "2020-09-14T06:40:30.845Z",
+        "produsertUtc": "2022-04-04T13:39:02.294Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
         },
-        "elementer": 3204,
+        "elementer": 3294,
         "source": [
           {
             "name": "kommune.geojson",
             "tittel": "Kommune",
-            "produsertUtc": "2020-08-29T16:57:49.125Z",
+            "produsertUtc": "2022-04-04T11:02:32.930Z",
             "utgiver": "Artsdatabanken",
             "url": null,
             "tool": {
               "name": "kommune-kart-lastejobb",
               "url": "https://github.com/Artsdatabanken/kommune-kart-lastejobb",
-              "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/3f62ada879c775625785edf55b8e023a190c9f2f"
+              "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb.git/master/baefbadd59301c21ea0efe2e65c08c43ed3f6d3d"
             },
             "elementer": 363,
             "source": [
               {
                 "name": "fylke_25833.geojson",
                 "tittel": "Fylke",
-                "produsertUtc": "2020-08-29T16:57:47.387Z",
+                "produsertUtc": "2022-04-04T11:01:44.957Z",
                 "utgiver": "Artsdatabanken",
                 "url": null,
                 "tool": {
                   "name": "kommune-kart-lastejobb",
                   "url": "https://github.com/Artsdatabanken/kommune-kart-lastejobb",
-                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/3f62ada879c775625785edf55b8e023a190c9f2f"
+                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb.git/master/baefbadd59301c21ea0efe2e65c08c43ed3f6d3d"
                 },
                 "elementer": 11,
                 "source": [
                   {
-                    "name": "Basisdata_0000_Norge_25833_Fylker_GEOJSON.geojson"
+                    "name": "Basisdata_0000_Norge_25833_Fylker_GeoJSON.geojson"
                   }
                 ]
               },
               {
                 "name": "kommune_25833.geojson",
                 "tittel": "Kommune",
-                "produsertUtc": "2020-08-29T16:57:49.125Z",
+                "produsertUtc": "2022-04-04T11:02:32.930Z",
                 "utgiver": "Artsdatabanken",
                 "url": null,
                 "tool": {
                   "name": "kommune-kart-lastejobb",
                   "url": "https://github.com/Artsdatabanken/kommune-kart-lastejobb",
-                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb/master/3f62ada879c775625785edf55b8e023a190c9f2f"
+                  "commit": "https://github.com/Artsdatabanken/kommune-kart-lastejobb.git/master/baefbadd59301c21ea0efe2e65c08c43ed3f6d3d"
                 },
                 "elementer": 363,
                 "source": [
                   {
-                    "name": "Basisdata_0000_Norge_25833_Fylker_GEOJSON.geojson"
+                    "name": "Basisdata_0000_Norge_25833_Fylker_GeoJSON.geojson"
                   },
                   {
-                    "name": "Basisdata_0000_Norge_25833_Kommuner_GEOJSON.geojson"
+                    "name": "Basisdata_0000_Norge_25833_Kommuner_GeoJSON.geojson"
                   }
                 ]
               }
@@ -331,15 +328,15 @@
           {
             "name": "naturvernområde_25833.geojson",
             "tittel": "Naturvernområde 4326",
-            "produsertUtc": "2020-09-14T06:39:49.413Z",
+            "produsertUtc": "2022-04-04T13:38:22.957Z",
             "utgiver": "Artsdatabanken",
             "url": null,
             "tool": {
               "name": "naturvern-kart-lastejobb",
               "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-              "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+              "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
             },
-            "elementer": 3204,
+            "elementer": 3294,
             "source": []
           }
         ]
@@ -347,15 +344,15 @@
       {
         "name": "naturvernområde_4326.geojson",
         "tittel": "Naturvernområde 4326",
-        "produsertUtc": "2020-09-14T06:39:49.413Z",
+        "produsertUtc": "2022-04-04T13:38:22.957Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
         },
-        "elementer": 3204,
+        "elementer": 3294,
         "source": []
       }
     ]

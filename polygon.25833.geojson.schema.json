@@ -161,42 +161,42 @@
   },
   "meta": {
     "tittel": "Polygon.25833.geojson.schema",
-    "produsertUtc": "2020-09-14T06:41:04.893Z",
+    "produsertUtc": "2022-04-04T13:39:44.500Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-kart/master/polygon.25833.geojson.schema.json",
+    "url": null,
     "tool": {
       "name": "naturvern-kart-lastejobb",
       "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+      "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
     },
     "elementer": 3,
     "source": [
       {
-        "name": "naturvernområde_4326_simple.geojson",
+        "name": "naturvernområde_4326.geojson",
         "tittel": "Naturvernområde 4326",
-        "produsertUtc": "2020-09-14T06:39:49.413Z",
+        "produsertUtc": "2022-04-04T13:38:22.957Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
         },
-        "elementer": 3204,
+        "elementer": 3294,
         "source": []
       },
       {
-        "name": "naturvernområde_25833_simple.geojson",
+        "name": "naturvernområde_25833.geojson",
         "tittel": "Naturvernområde 4326",
-        "produsertUtc": "2020-09-14T06:39:49.413Z",
+        "produsertUtc": "2022-04-04T13:38:22.957Z",
         "utgiver": "Artsdatabanken",
         "url": null,
         "tool": {
           "name": "naturvern-kart-lastejobb",
           "url": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb/master/04354d2a2e3dd99a7b0801696f01db2ec2b5b2af"
+          "commit": "https://github.com/Artsdatabanken/naturvern-kart-lastejobb.git/master/349787cd26df2269451368f80f8613add744a58f"
         },
-        "elementer": 3204,
+        "elementer": 3294,
         "source": []
       }
     ]
